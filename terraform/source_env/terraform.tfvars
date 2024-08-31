@@ -1,0 +1,5 @@
+resource_group_name     = "20240901_CANDF"
+cosmosdb_account_name   = "20240901-cosmosdb-candf"
+cosmosdb_database_name  = "candf"
+cosmosdb_container_name = "instagram_posts"
+azure_datalake_name     = "20240901candf"
